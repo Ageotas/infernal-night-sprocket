@@ -386,7 +386,7 @@
             "Key": "1b1aa36b-6615-463d-b637-ab5090fd8947",
             "Value": {
                 "id": "76864971-d5aa-4986-92ad-d6d6ff6d1af4",
-                "resourcePath": "objects\\object19\\object19.yy",
+                "resourcePath": "objects\\obj_panDish\\obj_panDish.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -554,7 +554,7 @@
             "Key": "289edc80-c4d3-4334-bc0a-24a1ee4710e9",
             "Value": {
                 "id": "c9608c5e-c893-41df-97f1-8b056af9c6d1",
-                "resourcePath": "rooms\\rm_cook\\rm_cook.yy",
+                "resourcePath": "rooms\\rm_chop\\rm_chop.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -580,6 +580,14 @@
                 "id": "bfc09d49-4f55-4101-ac67-39c6771a8904",
                 "resourcePath": "scripts\\TweenCalcTime\\TweenCalcTime.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2b34d1ff-1c19-4327-91ce-c5edf303d1c9",
+            "Value": {
+                "id": "2b39b8fc-c5c1-4f59-beda-08ee7f8d7fcb",
+                "resourcePath": "rooms\\rm_saute\\rm_saute.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -658,7 +666,7 @@
             "Key": "3151929a-6a5f-4e29-bf96-35177c0ad8a3",
             "Value": {
                 "id": "fe7c90ac-163b-478a-b7b4-d5bb3133f432",
-                "resourcePath": "objects\\object26\\object26.yy",
+                "resourcePath": "objects\\obj_stoveHeat\\obj_stoveHeat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -804,6 +812,14 @@
                 "id": "7e7921e4-2102-446e-85aa-aa73d06023d7",
                 "resourcePath": "scripts\\@joystick_exists\\joystick_exists.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3ea1795b-3e9d-4ec4-a001-8ae98ba52d75",
+            "Value": {
+                "id": "8a715564-ff86-40c8-ba53-5cdbf2aba94c",
+                "resourcePath": "sprites\\spr_stove\\spr_stove.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1306,7 +1322,7 @@
             "Key": "6b64431a-a124-45d5-ab19-66f4ffd9db42",
             "Value": {
                 "id": "7e78b8a5-57d8-43f5-a00d-dd17e801cfe2",
-                "resourcePath": "objects\\object28\\object28.yy",
+                "resourcePath": "objects\\obj_debugText\\obj_debugText.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1484,6 +1500,14 @@
                 "id": "3e611c6b-24d9-4765-ba6c-f534a440d7bf",
                 "resourcePath": "scripts\\EaseInOutElastic\\EaseInOutElastic.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7ad22cbe-c9b7-4105-8ec5-4e0dffcc71bf",
+            "Value": {
+                "id": "868ea689-871d-4a51-854f-f5adf1479d02",
+                "resourcePath": "sprites\\spr_pan\\spr_pan.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1762,7 +1786,7 @@
             "Key": "954b9d8f-6896-486b-94f7-20700bf1b84c",
             "Value": {
                 "id": "eb845b18-a70a-4d43-a55b-a5a5099691b1",
-                "resourcePath": "objects\\object27\\object27.yy",
+                "resourcePath": "objects\\obj_sauteChunk\\obj_sauteChunk.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1788,14 +1812,6 @@
                 "id": "72dc943d-7d5a-48c8-a633-6bde7001700e",
                 "resourcePath": "scripts\\@joystick_process_events\\joystick_process_events.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "9842f1f1-6d45-4fc6-a724-0e013a689bb5",
-            "Value": {
-                "id": "7c2ccc8f-8a71-458b-9fec-28aefdf6a2ee",
-                "resourcePath": "sprites\\sprite16isapaininmyarse\\sprite16isapaininmyarse.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1996,6 +2012,14 @@
                 "id": "b062b19c-97ef-4fe7-aee9-785a8102cb27",
                 "resourcePath": "views\\aad3bc88-ef6b-426a-a60c-bfa19ce8dae0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aad811d1-28dc-489e-8df0-4646b5543221",
+            "Value": {
+                "id": "27b96507-98ea-4efb-aa1c-fdbf20687f4c",
+                "resourcePath": "sprites\\spr_panDish\\spr_panDish.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2226,7 +2250,7 @@
             "Key": "bdae6a43-2178-4dfe-9a2c-708bde26ce9b",
             "Value": {
                 "id": "ac695836-a4a6-415d-9bd0-c55a93f8390e",
-                "resourcePath": "objects\\object24\\object24.yy",
+                "resourcePath": "objects\\obj_pan\\obj_pan.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2348,6 +2372,14 @@
                 "id": "c93e3ad0-07fc-4bbb-ae01-967ad0ec17c9",
                 "resourcePath": "objects\\InputForPlayer3\\InputForPlayer3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c791876a-99b1-424c-8729-1ad9219f3b47",
+            "Value": {
+                "id": "636ddce9-06d4-4ac7-8170-53fd8c1bc601",
+                "resourcePath": "sprites\\spr_stoveHeat\\spr_stoveHeat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2746,7 +2778,7 @@
             "Key": "ef1c4be9-088e-467f-a760-6e930ced2bea",
             "Value": {
                 "id": "9bdb7cc2-a7e7-435c-be94-f1ce5ae739e2",
-                "resourcePath": "objects\\object25\\object25.yy",
+                "resourcePath": "objects\\obj_stove\\obj_stove.yy",
                 "resourceType": "GMObject"
             }
         },
