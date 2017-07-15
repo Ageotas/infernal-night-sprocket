@@ -58,3 +58,15 @@ if (spike != noone) {
 if (hsp == 0 && vsp == 0){
 	state_switch("idle")
 };
+
+//lift ingredients
+if inputdog_down("lift"){
+	if instance_place(x+hmove,y+vmove,oIngredientParent){
+		if canLift = 1{
+			with oIngredientParent {
+				lifted = 1;
+				other.canLift = 0;
+			};
+		};
+	};
+};

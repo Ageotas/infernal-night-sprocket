@@ -28,8 +28,7 @@ vsp = 0;
 //Lifting
 canLift = 1;
 canThrow = 0;
-enemyLifted = noone;
-maxLift = 5;
+ingredient = 0;
 
 //Hit state
 hit = 0;
