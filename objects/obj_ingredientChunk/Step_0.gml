@@ -22,4 +22,5 @@ if global.cutting == true{
 bowlCollision = position_meeting(x,y,obj_bowl);
 if bowlCollision == true{
 	instance_destroy();
+	obj_ingredientRaw.chunksCollected++;
 }
