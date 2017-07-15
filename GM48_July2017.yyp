@@ -170,7 +170,7 @@
             "Key": "0e55beb6-d1ee-42cf-a5c6-8a9df5b83273",
             "Value": {
                 "id": "cf1bfe9a-4d3e-4633-a86a-0953ec2a3f9e",
-                "resourcePath": "objects\\object29\\object29.yy",
+                "resourcePath": "objects\\obj_scoreKeeper\\obj_scoreKeeper.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -738,7 +738,7 @@
             "Key": "39b11df2-6b2b-47d0-8616-4bcfd7647db2",
             "Value": {
                 "id": "724e3f6c-26df-43a0-bee8-2f1c57a2b9ea",
-                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourcePath": "sprites\\spr_bowl\\spr_bowl.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1788,6 +1788,14 @@
                 "id": "72dc943d-7d5a-48c8-a633-6bde7001700e",
                 "resourcePath": "scripts\\@joystick_process_events\\joystick_process_events.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9842f1f1-6d45-4fc6-a724-0e013a689bb5",
+            "Value": {
+                "id": "7c2ccc8f-8a71-458b-9fec-28aefdf6a2ee",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2978,7 +2986,7 @@
             "Key": "fe93c833-b442-4f32-a2d5-f638db0d5929",
             "Value": {
                 "id": "95428860-df00-4fbd-a664-325e4c425830",
-                "resourcePath": "objects\\object23\\object23.yy",
+                "resourcePath": "objects\\obj_bowl\\obj_bowl.yy",
                 "resourceType": "GMObject"
             }
         }
