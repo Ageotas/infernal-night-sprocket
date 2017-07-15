@@ -9,7 +9,6 @@ if(state_new){
 if inputdog_analog("left",playerSlot) image_xscale = -image_scale;
 if inputdog_analog("right",playerSlot) image_xscale = image_scale;
 
-
 //Movement calcs
 hmove = -inputdog_analog("left",playerSlot)+inputdog_analog("right",playerSlot)
 hsp = hmove * moveSpeed;
@@ -42,6 +41,18 @@ if (wall != noone){
 };
 y += vsp;
 
+
+var spike = instance_place(x,y,oSpikeTrap)
+
+if (spike != noone) {
+	if spike.active = 1{
+		if hit == 0 {
+			moveSpeed = hitSpeed;
+			hit = 1;
+			alarm[0] = room_speed*2;
+		};
+	};
+};
 
 //Idle
 if (hsp == 0 && vsp == 0){

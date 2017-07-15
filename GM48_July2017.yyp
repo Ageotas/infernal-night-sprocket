@@ -290,7 +290,7 @@
             "Key": "1620619e-b763-414c-b2e1-e9f3d83e63d6",
             "Value": {
                 "id": "c762dbde-45a4-4859-90c1-8114bc3dc6cf",
-                "resourcePath": "objects\\object10\\object10.yy",
+                "resourcePath": "objects\\oSpikeTrap\\oSpikeTrap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -722,7 +722,7 @@
             "Key": "36cb8f1a-0405-42ae-9961-e1be5537dd89",
             "Value": {
                 "id": "16728e53-08ee-4fc1-909e-06c9e14a5176",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\sWallParent\\sWallParent.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1146,7 +1146,7 @@
             "Key": "5a4cbed2-d65c-456f-8977-aa33cc8872bf",
             "Value": {
                 "id": "6a931ebd-1711-4e94-886d-ddd975a37e97",
-                "resourcePath": "objects\\object11\\object11.yy",
+                "resourcePath": "objects\\oFlameTrap\\oFlameTrap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1322,7 +1322,7 @@
             "Key": "6d6bd52f-0f11-421c-a277-d18be42e9987",
             "Value": {
                 "id": "a36ada84-e923-4e6e-b313-337403d6a915",
-                "resourcePath": "objects\\object9\\object9.yy",
+                "resourcePath": "objects\\oKitchenControl\\oKitchenControl.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1836,14 +1836,6 @@
                 "id": "882a5653-5bba-4a0c-990a-cece0f72ff9e",
                 "resourcePath": "views\\9c659a63-8f5b-4e8f-b307-bfde3bdc0edb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9d87aa56-97d6-40aa-aae7-22231a770ae1",
-            "Value": {
-                "id": "422936f3-6d88-4de5-acbe-a6d1e4dd0bda",
-                "resourcePath": "scripts\\stPlayerHit\\stPlayerHit.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -2703,6 +2695,14 @@
             }
         },
         {
+            "Key": "e8f17df9-34ee-4cae-87d7-db76bdc5977c",
+            "Value": {
+                "id": "bf001390-be41-4fb8-a3ce-5b4166789a44",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e97b7337-6456-4adb-b09e-11ca6b28cfcd",
             "Value": {
                 "id": "c2a5e02e-6f87-41fa-95dc-f1ae1a362730",
@@ -3203,14 +3203,13 @@
         "a75fc5da-a2cb-484e-80c2-d0fb150bc351",
         "0f811152-30e9-48b9-9ba9-234109f30a64",
         "7ee64c0c-1d54-4d00-9908-6e6f46cc41a6",
-        "22f6b20d-222c-4f51-bdcf-e830591a9eb5",
-        "ab67dea1-33b8-4968-b704-129d366649d8",
-        "84ed67b8-e360-4513-8499-e5d7a51710cb",
-        "f907709d-4e15-47d9-849d-a258ceef4391",
-        "721c0593-47b1-4010-88e7-8ee18e7399fa",
         "beb1f77f-b75e-4954-ac02-44effd26db16",
         "572c1d49-5dff-4fdc-9c4b-97134d93cb2d",
-        "9d87aa56-97d6-40aa-aae7-22231a770ae1",
+        "22f6b20d-222c-4f51-bdcf-e830591a9eb5",
+        "84ed67b8-e360-4513-8499-e5d7a51710cb",
+        "ab67dea1-33b8-4968-b704-129d366649d8",
+        "f907709d-4e15-47d9-849d-a258ceef4391",
+        "721c0593-47b1-4010-88e7-8ee18e7399fa",
         "30aa490b-eea0-4f69-86fd-06d6218b8025",
         "56ed2c4b-1bf4-471f-955c-9d3ef2e1caae"
     ],

@@ -1,3 +1,2 @@
-///Player Dive alarm
-canDive = 1;
-
+hit = 0;
+moveSpeed = normalSpeed;

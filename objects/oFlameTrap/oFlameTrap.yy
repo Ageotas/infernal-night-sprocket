@@ -2,7 +2,7 @@
     "id": "5a4cbed2-d65c-456f-8977-aa33cc8872bf",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object11",
+    "name": "oFlameTrap",
     "eventList": [
         
     ],
