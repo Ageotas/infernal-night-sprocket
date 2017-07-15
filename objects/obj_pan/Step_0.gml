@@ -17,15 +17,25 @@ else{
 	y = y_last;
 }
 
+if (temperature <= 80){
+	obj_pan.image_index = 0
+}
+if (temperature > 80 && temperature <= 180){
+	obj_pan.image_index = 1
+}
+if (temperature > 180){
+	obj_pan.image_index = 2
+}
+
 
 heatLocation = instance_place(x,y,obj_stoveHeat);
 if heatLocation != noone{
 	if (temperature <= 250) {
-		temperature += 0.5;
+		temperature += 0.3;
 	}
 }
 else{
 	if (temperature >= 20) {
-		temperature -= 0.1;
+		temperature -= 0.2;
 	}
 }

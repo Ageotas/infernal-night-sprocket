@@ -3,3 +3,4 @@
 
 y_last = y
 x_last = x
+i = 0

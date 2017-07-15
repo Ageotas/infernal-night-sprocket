@@ -6,7 +6,7 @@ if (isinPan != noone){
 	y = obj_pan.y
 }
 else{
-	y += 15
+	y += 9
 }
 
 if (x <= (obj_panDish.x - 200)) {
@@ -31,3 +31,20 @@ else{
 }
 
 
+if (obj_pan.temperature > 80 && obj_pan.temperature < 180){
+	if (obj_sauteChunk.image_index < 3){
+		i = irandom_range(1,2000)
+		if (i == 1){
+			obj_sauteChunk.image_index += 1
+		}
+	}
+}
+
+if (obj_pan.temperature > 180){
+	if (obj_sauteChunk.image_index < 3){
+		i = irandom_range(1,500)
+		if (i == 1){
+			obj_sauteChunk.image_index += 1
+		}
+	}
+}
