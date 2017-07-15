@@ -9,7 +9,9 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "07ecf71c-98de-4ca6-8cb8-e56e33a373a1",
+        "c84c53d6-3bee-41da-a8bb-2c887823eba1",
+        "8ec4d495-294c-45dd-90a2-03fb5192904c"
     ],
     "layers": [
         {
@@ -35,7 +37,78 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "07ecf71c-98de-4ca6-8cb8-e56e33a373a1",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_6F544D49",
+                    "x": 544,
+                    "y": 352,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_6F544D49",
+                    "objId": "e176a929-264a-4f03-9cb6-9307d3c7ee2a",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "c84c53d6-3bee-41da-a8bb-2c887823eba1",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_11CCA804",
+                    "x": 32,
+                    "y": 32,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_11CCA804",
+                    "objId": "2d13eaaf-7afd-44d8-abc4-c86567951043",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "8ec4d495-294c-45dd-90a2-03fb5192904c",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_18DBE931",
+                    "x": 320,
+                    "y": 224,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_18DBE931",
+                    "objId": "5f19f9c5-893c-4263-bea1-9643ff0485ea",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
@@ -63,7 +136,7 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4284247940
             },
             "hspeed": 0,
             "htiled": false,
@@ -91,8 +164,8 @@
         "id": "0a809827-14dc-4885-8c67-c39af11e2bac",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 768,
-        "Width": 1024,
+        "Height": 720,
+        "Width": 1280,
         "inheritRoomSettings": false,
         "persistent": false
     },

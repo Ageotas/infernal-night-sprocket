@@ -322,7 +322,7 @@
             "Key": "17b83ee0-7ca1-4eb0-a3d6-94afe249936e",
             "Value": {
                 "id": "ee51ec6b-8153-40a2-9e8f-7a8d824b110a",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourcePath": "sprites\\spr_knifeChop\\spr_knifeChop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -602,7 +602,7 @@
             "Key": "2d13eaaf-7afd-44d8-abc4-c86567951043",
             "Value": {
                 "id": "cb7561dc-4371-45fa-8873-e7d92891cc91",
-                "resourcePath": "objects\\object30\\object30.yy",
+                "resourcePath": "objects\\obj_surfaceManager\\obj_surfaceManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1202,7 +1202,7 @@
             "Key": "5f19f9c5-893c-4263-bea1-9643ff0485ea",
             "Value": {
                 "id": "b9eccac4-4f2a-4dd2-83e9-72c5d4d785df",
-                "resourcePath": "objects\\object21\\object21.yy",
+                "resourcePath": "objects\\obj_ingredientRaw\\obj_ingredientRaw.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2098,7 +2098,7 @@
             "Key": "b0741a36-de98-4acf-9851-7dc865c58724",
             "Value": {
                 "id": "66b92f1f-4bd9-450d-a96e-f8c32ffcd18f",
-                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourcePath": "sprites\\spr_knife\\spr_knife.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2634,7 +2634,7 @@
             "Key": "e0a8c066-0a84-45e4-82ac-0f72cae503fd",
             "Value": {
                 "id": "99f1a019-39dc-49ec-965c-e8229f2b5279",
-                "resourcePath": "objects\\object22\\object22.yy",
+                "resourcePath": "objects\\obj_ingredientChunk\\obj_ingredientChunk.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2650,7 +2650,7 @@
             "Key": "e176a929-264a-4f03-9cb6-9307d3c7ee2a",
             "Value": {
                 "id": "b787a552-43e7-4da1-aa9d-bdec37584cf1",
-                "resourcePath": "objects\\object20\\object20.yy",
+                "resourcePath": "objects\\obj_knife\\obj_knife.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2922,7 +2922,7 @@
             "Key": "fb869c17-7210-4632-8d3f-151c2ec4f12d",
             "Value": {
                 "id": "bd0bf9bf-76e7-499d-9e22-517d160d94af",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourcePath": "sprites\\spr_ingredientHandChunk\\spr_ingredientHandChunk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2954,7 +2954,7 @@
             "Key": "fc1e4927-fd6e-4044-ad14-944088e340d6",
             "Value": {
                 "id": "1d80720e-3e86-47a5-9bcd-a1ed3a1e7100",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\\spr_ingredientHand\\spr_ingredientHand.yy",
                 "resourceType": "GMSprite"
             }
         },
