@@ -45,4 +45,3 @@ y += vsp;
 if (hsp == 0 && vsp == 0){
 	state_switch("idle")
 };
-

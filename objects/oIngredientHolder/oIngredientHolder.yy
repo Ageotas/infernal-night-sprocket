@@ -1,8 +1,8 @@
 {
-    "id": "4dfe6381-4627-4075-8e91-a3580aaca676",
+    "id": "9b1e8c75-0671-4b49-aec6-b20cdda729eb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDropOff",
+    "name": "oIngredientHolder",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "fa678f04-9fd9-4144-8570-2a1108458b1b",
+    "spriteId": "fae82b81-a0b7-4fa1-adc0-f58434f42873",
     "visible": true
 }

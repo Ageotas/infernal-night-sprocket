@@ -19,7 +19,7 @@ playerSlot = 1;
 //Movement
 hmove = 0;
 vmove = 0;
-moveSpeed = 2;
+moveSpeed = 5;
 hitSpeed = 1;
 normalSpeed = 2;
 hsp = 0;
@@ -27,6 +27,7 @@ vsp = 0;
 
 //Lifting
 canLift = 1;
+canThrow = 0;
 ingredient = 0;
 
 //Hit state
