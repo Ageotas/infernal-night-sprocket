@@ -8,7 +8,7 @@ if global.cutting == true{
         last_x = x
         
         isColliding = instance_place(x,y,obj_ingredientChunk)
-        if  isColliding != noone{
+        if  (isColliding != noone && y > 20){
             with isColliding {
                 y += sign(y - other.y);
             }
@@ -22,4 +22,5 @@ if global.cutting == true{
 bowlCollision = position_meeting(x,y,obj_bowl);
 if bowlCollision == true{
 	instance_destroy();
+	obj_ingredientRaw.chunksCollected++;
 }

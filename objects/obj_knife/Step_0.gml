@@ -11,6 +11,7 @@ if mouse_check_button_pressed(mb_left) {
 if mouse_check_button_released(mb_left) {
 	sprite_index=spr_knife;
 	global.cutting=false;
+	global.hascut=false
 }
 
 // If controller

@@ -11,3 +11,7 @@
 //
 //draw_sprite(spr_ingredientHand,0,225,250);
 //surface_reset_target();
+
+chunksAvailable = 32
+chunksCreated = 0
+chunksCollected = 0
